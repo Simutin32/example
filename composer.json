@@ -1,0 +1,6 @@
+{
+	"name": "try1/example",
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
